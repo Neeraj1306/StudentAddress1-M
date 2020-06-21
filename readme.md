@@ -8,6 +8,9 @@ npm i
 npm run dev
 
 # Documentation 
+npm install -g apidoc
+
+
 apidoc -i doc/ -o apidoc/
 
 
